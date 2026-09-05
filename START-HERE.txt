@@ -1,0 +1,19 @@
+WINDOWDROP — PREVIEW FOR YOUR MAC
+
+1. Open WindowDrop.app (Apple Silicon, macOS 15+).
+2. Choose file → Start sharing.
+3. Send the link and code to your friend. They only need a browser.
+4. Close the WindowDrop window to stop sharing and quit.
+
+No Python installation. No login item. No cloud file copy.
+Your Mac must stay awake and connected while sharing.
+
+CURRENT TEST LIMITATION
+The current network/VPN setup blocked the Cloudflare tunnel connection.
+Your VPN was left unchanged as requested. Local download and shutdown
+checks passed, but an internet download has not been verified here.
+The app will show an error if it cannot create a working connection.
+
+This is a locally signed personal preview, not Apple-notarized software.
+If macOS blocks it, see README.md for the per-app Open Anyway procedure.
+See TEST-RESULTS.md for exactly what was tested.
